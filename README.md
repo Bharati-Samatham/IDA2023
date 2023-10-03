@@ -1,2 +1,3 @@
 # IDA2023
-Example on how to use git and Jupyter notebook
+## My first repository 
+Example of how to use git and Jupyter Notebook
