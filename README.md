@@ -1,16 +1,7 @@
 # IDA2023
 ## pandas basics 
 
-Welcome to the Pandas Basics repository! This repository provides an introduction to the Pandas library, a powerful data analysis and manipulation tool for Python. Whether you're a beginner or an experienced data scientist, you'll find valuable resources and information here to help you get started with Pandas.
-
-## Table of Contents
-
-- [Introduction to Pandas](#introduction-to-pandas)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Pandas Fundamentals](#pandas-fundamentals)
-- [Working with Data](#working-with-data)
-- [Contributing](#contributing)
+Welcome to the Pandas Basics repository! This repository provides an introduction to the Pandas library, a powerful data analysis and manipulation tool for Python. 
 
 ## Introduction to Pandas
 
